@@ -2,6 +2,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tc2r1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTc2r1&screen_name=Tc2r1)
 <br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## I'm an Android Developer, Mentor, and Gym Addict!!
 
 - 🌱 I’m currently learning everything 🤣 Kotlin Coroutines, Jetpack Compose, Accessibility, Github Flows, and Google Truth. 
