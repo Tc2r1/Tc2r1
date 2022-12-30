@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 293 hrs 57 mins
+Total Time: 289 hrs 3 mins
 
-Kotlin                 210 hrs 23 mins ██████████████████░░░░░░░   71.57 %
-XML                    24 hrs 32 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-Java                   21 hrs 13 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-YAML                   14 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Properties             7 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-textmate               5 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Kotlin                 208 hrs 27 mins ██████████████████░░░░░░░   72.12 %
+XML                    23 hrs 26 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Java                   19 hrs 49 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+YAML                   14 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Properties             6 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+textmate               5 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
