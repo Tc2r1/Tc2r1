@@ -33,12 +33,11 @@ Groovy                 5 hrs 32 mins   ▒░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Tc2r1&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tc2r1&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tc2r1&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
- </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tc2r1&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
