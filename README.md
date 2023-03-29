@@ -21,14 +21,14 @@ I'm an Android Developer, Mentor, and Gym Addict!!
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 301 hrs 29 mins
+Total Time: 298 hrs 49 mins
 
-Kotlin                 198 hrs 44 mins ████████████████▒░░░░░░░░   65.92 %
-Java                   46 hrs 8 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-XML                    23 hrs 56 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-YAML                   15 hrs 5 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Groovy                 4 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-textmate               3 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Kotlin                 198 hrs 28 mins ████████████████▓░░░░░░░░   66.42 %
+Java                   44 hrs 47 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+XML                    23 hrs 1 min    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+YAML                   15 hrs 5 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Groovy                 4 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+textmate               3 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
